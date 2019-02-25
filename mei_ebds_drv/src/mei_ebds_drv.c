@@ -2,9 +2,9 @@
  ============================================================================
  Name        : mei_ebds_drv.c
  Author      : Mark Meadows
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Version     :00.00.01
+ Copyright   :Fireking Security Group 2019
+ Description :Driver for MEI-EBDS protocol Devices
  ============================================================================
  */
 
