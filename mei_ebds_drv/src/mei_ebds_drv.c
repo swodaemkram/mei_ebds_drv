@@ -11,7 +11,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "Print_Help.h"
+#include "Detect.h"
+#include "DoDownload.h"
+#include "DoRequest.h"
+#include "GetStatus.h"
+#include "MEI_Definitions.h"
+#include "mei.h"
+#include "MEIComm.h"
+#include "Open.h"
+#include "ProcessPoll.h"
+#include "SessionReset.h"
+
+
 int main(void) {
-	puts("DHT11"); /* prints DHT11 */
-	return EXIT_SUCCESS;
+
+	Print_Help();
+
+	exit(0);
 }
